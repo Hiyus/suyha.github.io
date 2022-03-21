@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Suyha</title>
+        <link>https://suyha.github.io/categories/</link>
+        <description>Recent content in Categories on Suyha</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 19 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suyha.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Alist</title>
+        <link>https://suyha.github.io/categories/alist/</link>
+        <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://suyha.github.io/categories/alist/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>vbs</title>
+        <link>https://suyha.github.io/categories/vbs/</link>
+        <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://suyha.github.io/categories/vbs/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Windows</title>
+        <link>https://suyha.github.io/categories/windows/</link>
+        <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://suyha.github.io/categories/windows/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://suyha.github.io/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://suyha.github.io/categories/test/</guid>
+        <description>&lt;img src="https://suyha.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
